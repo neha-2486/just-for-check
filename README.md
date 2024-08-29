@@ -1,3 +1,3 @@
 # just-for-check
-this is my first repository
+first repository
 <br> Hello world.
